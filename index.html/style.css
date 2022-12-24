@@ -1,0 +1,205 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.top-banner {
+    background-image: url(/images/donation0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.banner-text {
+    text-align: center;
+    padding: 200px 180px;
+    background-color: rgb(31 32 36);
+    opacity: 0.8;
+}
+
+.banner-title {
+    color: white;
+    font-size: 60px;
+}
+
+.paragraph {
+    color: white;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btn {
+    padding: 25px 20px 20px 25px;
+    background-color: tomato;
+    color: white;
+    font-size: 24px;
+    border-color: black;
+    border-radius: 10px;
+}
+
+.headdinf-title {
+    text-align: center;
+    font-size: 60px;
+}
+
+.paragraph-2 {
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.top-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.title {
+    background-color: rgb(211, 124, 16);
+    padding: 10px 20px;
+    margin-right: 35px;
+}
+
+.diff-title {
+    background-color: brown;
+    color: white;
+    padding: 10px 20px;
+    margin-right: 35px;
+    border-color: rgb(18, 18, 39);
+    border-style: solid;
+}
+
+.custom-amout {
+    padding: 8px;
+    width: 600px;
+    text-align: center;
+    border-style: none;
+    border-bottom: 2px solid #ddd;
+    font-size: 22px;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.amout-tk {
+    text-align: center;
+}
+
+.give-donation {
+    text-align: center;
+    font-size: 60px;
+}
+
+.item-section {
+    display: flex;
+}
+
+.item-1 {
+    background-color: antiquewhite;
+    padding: 20px 20px 20px 20px;
+    margin: 15px 15px 15px 15px;
+    font-size: 22px;
+}
+
+.item-2 {
+    background-color: cornflowerblue;
+    padding: 20px 20px 20px 20px;
+    margin: 15px 15px 15px 15px;
+    font-size: 22px;
+}
+
+.item-3 {
+    background-color: darkseagreen;
+    padding: 20px 20px 20px 20px;
+    margin: 15px 15px 15px 15px;
+    font-size: 22px;
+}
+
+.blog-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 30px 30px 30px;
+    margin: 15px 15px 15px 15px;
+    font-size: 25px;
+}
+
+.contribute-btn {
+    background-color: tomato;
+    color: white;
+    padding: 20px 20px 20px 20px;
+    margin: 10px 10px 10px 10px;
+    font-size: 24px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.third-part {
+    width: 50%;
+}
+
+.block-section-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 30px 30px 30px;
+    margin: 15px 15px 15px 15px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.img {
+    padding: 15px 15px 15px 15px;
+    margin: 10px 10px 10px 10px;
+}
+
+.last-part {
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.email {
+    text-align: center;
+    background: rgb(236, 236, 211);
+    margin: 20px 300px;
+    padding: 50px 20px;
+    border-radius: 10px;
+}
+
+.input-email {
+    padding: 25px 35px;
+    width: 350px;
+    border: 0px solid #fff;
+    background-color: #ddd
+}
+
+.last-btn {
+    padding: 10px 35px;
+    background-color: orangered;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px 20px 20px 25px;
+    margin: auto;
+}
+
+.footer-h {
+    color: crimson;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+
+}
+
+.footer-p {
+    color: white;
+    text-align: center;
+    padding-bottom: 15px;
+}
